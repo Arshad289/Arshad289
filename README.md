@@ -12,16 +12,16 @@ Building production-quality data pipelines and analytical solutions. Former Fina
 #### 🔍 [Credit Card Fraud Detection](https://github.com/Arshad289/SQL-Project--Fraud-Detection)
 Analyzed **1.3M+ transactions** to identify fraud patterns using SQL and Python
 - Discovered 3× higher fraud rates during late-night hours
-- Built geographic anomaly detection using Haversine formula
+- Built geographic anomaly detection using the Haversine formula
 
 **Tech:** `SQL` `PostgreSQL` `Python` `Pandas`
 
 ---
 
 #### 🎵 [Spotify Music Recommendation Engine](https://github.com/Arshad289/Spotify-Data-Analysis-and-MusicRecommendation)
-Built recommender for **160K+ Spotify tracks** using ML clustering
-- Achieved 85%+ relevance score with cosine similarity
-- Implemented K-Means clustering revealing 8 sonic profiles
+Built a recommender for **160K+ Spotify tracks** using ML clustering
+- Achieved **98%+ similarity scores** using cosine similarity
+- Implemented K-Means clustering, revealing 8 sonic profiles
 
 **Tech:** `Python` `scikit-learn` `Machine Learning` `K-Means`
 
@@ -30,7 +30,7 @@ Built recommender for **160K+ Spotify tracks** using ML clustering
 #### 📈 [Sales Analytics Dashboard](https://github.com/Arshad289/Tableau-Project---Sales-Analysis)
 Created Tableau dashboard analyzing **271K+ transactions** across 147 countries
 - Visualized 89% sales growth from 2011-2014
-- Built interactive drill-down analysis
+- Built an interactive drill-down analysis
 
 **Tech:** `Tableau` `Data Visualization` `Business Intelligence`
 
