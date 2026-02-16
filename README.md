@@ -45,32 +45,14 @@ Created Tableau dashboard analyzing **271K+ transactions** across 147 countries
 **Tools:** Git • Excel • Jupyter
 
 ---
-## 📊 GitHub Statistics
-
-![Arshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshad289&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad289&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect!
 
-I'm actively seeking **Data Scientist** positions where I can apply my analytical skills.
+I'm actively seeking **Data Scientist** / **Business Analyst** positions where I can apply my analytical skills.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-ali-m-080110135)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedarshadali89@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad289)
-
----
-
-⭐ **Feel free to explore my repositories and star projects you find interesting!**
-
-## 📫 Let's Connect!
-
-I'm actively seeking **Data Scientist** positions where I can apply my analytical skills.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-ali-m-080110135)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedarshadali89@gmail.com)
 
 ---
 
