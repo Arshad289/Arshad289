@@ -7,10 +7,6 @@
 Data Scientist with Finance Domain Expertise | MS Business Analytics (3.9 GPA) | SQL & Python Enthusiast
 Building production-quality data pipelines and analytical solutions. Former Financial Operations Analyst at ADP and Dell Technologies with 4+ years of experience translating business problems into data-driven insights.
 
-### 📈 GitHub Statistics
-
-![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad289&show_icons=true&theme=default)
-
 ### 🔭 Featured Projects
 
 #### 🔍 [Credit Card Fraud Detection](https://github.com/Arshad289/SQL-Project--Fraud-Detection)
