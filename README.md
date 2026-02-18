@@ -19,7 +19,7 @@ Analyzed **1.3M+ transactions** to identify fraud patterns using SQL and Python
 ---
 
 #### 🎵 [Spotify Music Recommendation Engine](https://github.com/Arshad289/Spotify-Data-Analysis-and-MusicRecommendation)
-Built a recommender for **160K+ Spotify tracks** using ML clustering
+Built a recommender for **114K+ Spotify tracks** using ML clustering
 - Achieved **98%+ similarity scores** using cosine similarity
 - Implemented K-Means clustering, revealing 8 sonic profiles
 
