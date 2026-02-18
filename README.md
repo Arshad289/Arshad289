@@ -50,6 +50,7 @@ Created Tableau dashboard analyzing **271K+ transactions** across 147 countries
 
 I'm actively seeking **Data Scientist** / **Business Analyst** positions where I can apply my analytical skills.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arshadbuilds.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshad-ali-m-080110135)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohammedarshadali89@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshad289)
